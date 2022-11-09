@@ -1,6 +1,5 @@
 # Employee Tracker Starter Code
 
- # unique-profile-generator
  ### license: Unlicensed [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
  ### Github URL: [montelchuu](https://github.com/montelchuu/)
